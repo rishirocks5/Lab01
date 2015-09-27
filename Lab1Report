@@ -33,10 +33,19 @@ If you're wanting to display editing revisions with with markup, <ins> and <del>
 </body>
 </html>
 
--  Upon visiting my web page, the user gets presented with a password prompt and asked to put in a password. The method I choose to password protect my page was to use a simple script. This script has two variables one of which contains the login password and the other will get assigned to what the user will put into the password field. The script then compares both with a simple if statement and if the password is correct, the user gets alerted with an “Correct Password” message. On the other hand if a wrong password was inputted, user will be redirected to an Error.html page.
+-  Upon visiting my web page, the user gets presented with a password prompt and asked to put in a password. 
+   The method I choose to password protect my page was to use a simple script. 
+   This script has two variables one of which contains the login password and the other will get assigned to what the user will put into the password field. 
+   The script then compares both with a simple if statement and if the password is correct, the user gets alerted with an “Correct Password” message. 
+   On the other hand if a wrong password was inputted, user will be redirected to an Error.html page.
 
--  In the creation of my webpage, I experimented with lots of tags but the tags I found most interesting were the <ins> and <del> tags. I was always under the assumption that <ins> tag would be used to insert an image or video on the webpage and the <del> tag would be used to delete an image or table after a set period of time. As it turns out, the actual purpose of those tags are for formatting purpose. <ins> tag makes the desired text underlined and <del> tag makes the text appear invalid.
+-  In the creation of my webpage, I experimented with lots of tags but the tags I found most interesting were the <ins> and <del> tags. 
+   I was always under the assumption that <ins> tag would be used to insert an image or video on the webpage and the <del> tag would be used to 
+   delete an image or table after a set period of time. As it turns out, the actual purpose of those tags are for formatting purpose. 
+   <ins> tag makes the desired text underlined and <del> tag makes the text appear invalid.
 
--  The page looks the same over all platforms. The only small difference that I saw in firefox platforms was that the page appeared to be more zoomed out. This can easily be fixed by zooming out of the page.
+-  The page looks the same over all platforms. The only small difference that I saw in firefox platforms was that the page appeared to be more zoomed out. 
+   This can easily be fixed by zooming out of the page.
 
-- The approximate time I spend on this lab was two hours. The main difficulty I faced in this lab was understanding the tags, how to make the website public and how to fix some specific errors in the validator report.
+- The approximate time I spend on this lab was two hours. The main difficulty I faced in this lab was understanding the tags, how to make the website public and 
+  how to fix some specific errors in the validator report.
