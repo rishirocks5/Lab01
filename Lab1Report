@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<script language = "javascript">
+    var password;
+    var pass1=123;
+    password = prompt('Enter Password Now',' ');
+    if(password == pass1)
+        alert('Correct password');
+    else{
+         location = "error.html"
+    }</script>
+    <head>
+        <meta charset="UTF-8">
+        <title> My Webpage!</title> 
+    </head>
+<body> 
+    <!-- Ask about the style tag.. if its acceptale -->
+    <h1 style = "text-align:center">Rishi Lamba</h1>
+    <h3 style = "text-align:center">Student#: 500450370</h3>
+    <ul style = "font-size:200%">
+        <li style = "color:blue">Apples</li>
+        <li style = "color:red">Grapes</li>
+        <li style = "color:green">Oranges</li>
+    </ul>
+    <a href="http://i.imgur.com/1TABTbW.png">Click Here for Validation Report</a>
+    <a href="http://i.imgur.com/h2pyjfS.png">Click Here for Technical Report</a>
+    <!-- <ins> and <del>
+If you're wanting to display editing revisions with with markup, <ins> and <del> are just the ticket. Like the name implies, <ins> highlights what's been added to the document with an underline, and <del> shows what's been taken out with a strikethrough.-->
+<h1>CPS 530 is a <del>hard</del> <ins>course</ins> and related to many jobs</h1>
+<!--<img src="http://www.cssauthor.com/wp-content/uploads/2013/07/Blurred-Background_111.jpg" style="max-width:100%;max-height:100%;"> -->
+
+</body>
+</html>
+
+-  Upon visiting my web page, the user gets presented with a password prompt and asked to put in a password. 
+   The method I choose to password protect my page was to use a simple script. 
+   This script has two variables one of which contains the login password and the other will get assigned to what the user will put into the password field. 
+   The script then compares both with a simple if statement and if the password is correct, the user gets alerted with an “Correct Password” message. 
+   On the other hand if a wrong password was inputted, user will be redirected to an Error.html page.
+
+-  In the creation of my webpage, I experimented with lots of tags but the tags I found most interesting were the <ins> and <del> tags. 
+   I was always under the assumption that <ins> tag would be used to insert an image or video on the webpage and the <del> tag would be used to 
+   delete an image or table after a set period of time. As it turns out, the actual purpose of those tags are for formatting purpose. 
+   <ins> tag makes the desired text underlined and <del> tag makes the text appear invalid.
+
+-  The page looks the same over all platforms. The only small difference that I saw in firefox platforms was that the page appeared to be more zoomed out. 
+   This can easily be fixed by zooming out of the page.
+
+-  The approximate time I spend on this lab was two hours. The main difficulty I faced in this lab was understanding the tags, how to make the website public and 
+   how to fix some specific errors in the validator report.
